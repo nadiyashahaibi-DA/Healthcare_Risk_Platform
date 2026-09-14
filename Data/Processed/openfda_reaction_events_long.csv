@@ -1,0 +1,248 @@
+safetyreportid,reaction
+5801206-7,Drug Administration Error
+5801206-7,Overdose
+10003300,Vomiting
+10003300,Diarrhoea
+10003300,Arthralgia
+10003300,Headache
+10003301,Dyspepsia
+10003301,Renal Impairment
+10003302,Drug Ineffective
+10003304,Drug Hypersensitivity
+10003305,Drug Hypersensitivity
+10003306,Cough
+10003306,Throat Irritation
+10003307,Rhinorrhoea
+10003308,Unevaluable Event
+10003308,Malaise
+10003309,Hepatic Enzyme Increased
+10003310,Back Pain
+10003311,Oedema Peripheral
+10003311,Fluid Retention
+10003312,Pneumonia
+10003312,Drug Ineffective
+10003313,Swelling
+10003313,Jaundice
+10003314,Back Pain
+10003315,Death
+10003316,Oedema
+10003316,Fatigue
+10003316,Dyspnoea Exertional
+10003316,Fluid Retention
+10003317,Angioedema
+10003317,Laryngeal Oedema
+10003317,Face Oedema
+10003318,Tuberculosis Of Central Nervous System
+10003319,Cholecystectomy
+10003319,Nephrolithiasis
+10003319,Biliary Tract Disorder
+10003319,Malaise
+10003320,Headache
+10003320,Hypotension
+10003321,Adenoviral Haemorrhagic Cystitis
+10003321,Pyrexia
+10003322,Tremor
+10003323,Fall
+10003323,Pain In Extremity
+10003323,Hiccups
+10003324,Malaise
+10003324,Ocular Hyperaemia
+10003325,Swelling
+10003326,Meconium Stain
+10003326,Amniotic Cavity Infection
+10003326,Maternal Exposure During Pregnancy
+10003327,Respiratory Failure
+10003327,Listeriosis
+10003327,Pyrexia
+10003327,Headache
+10003327,Vomiting
+10003327,Mental Status Changes
+10003327,Meningitis
+10003327,Pneumonia Staphylococcal
+10003328,Type Iv Hypersensitivity Reaction
+10003328,Skin Toxicity
+10003328,Palmar-Plantar Erythrodysaesthesia Syndrome
+10003328,Nail Toxicity
+10003328,Arthralgia
+10003328,Myalgia
+10003328,Asthenia
+10003328,Diarrhoea
+10003328,Neuropathy Peripheral
+10003329,Diarrhoea
+10003329,Abdominal Pain
+10003329,Asthenia
+10003329,Diarrhoea
+10003329,Weight Decreased
+10003329,Abdominal Pain
+10003329,Blood Creatinine Increased
+10003329,C-Reactive Protein Increased
+10003329,Dysuria
+10003329,Pyrexia
+10003329,Blood Creatinine Increased
+10003329,C-Reactive Protein Increased
+10003329,Pleural Effusion
+10003330,Feeling Abnormal
+10003331,Chemical Poisoning
+10003331,Neck Pain
+10003331,Back Pain
+10003331,Paraesthesia
+10003332,Proctalgia
+10003332,Anorectal Discomfort
+10003332,Rectal Haemorrhage
+10003333,Swelling
+10003334,Dry Mouth
+10003334,Product Quality Issue
+10003335,Localised Oedema
+10003335,Oedema Peripheral
+10003335,Fluid Retention
+10003335,Nasal Congestion
+10003336,Metastases To Spine
+10003336,Anxiety
+10003336,Renal Cyst
+10003336,Metastases To Thorax
+10003336,Metastases To Retroperitoneum
+10003336,Emotional Disorder
+10003336,Pancreatic Carcinoma Metastatic
+10003336,Metastases To Liver
+10003336,Metastases To Lung
+10003336,Emotional Distress
+10003336,Lymphadenopathy
+10003336,Prostate Cancer
+10003336,Peripheral Venous Disease
+10003337,Dysphonia
+10003337,Throat Irritation
+10003338,Swollen Tongue
+10003338,Pruritus
+10003338,Rash Generalised
+10003339,Anaemia
+10003340,Listeriosis
+10003340,Pyrexia
+10003340,Diarrhoea
+10003340,Meningitis
+10003341,Dizziness
+10003341,Oedema
+10003341,Dyspnoea
+10003342,Overdose
+10003342,General Physical Health Deterioration
+10003342,Malaise
+10003342,Drug Ineffective
+10003343,Liver Function Test Abnormal
+10003343,Liver Disorder
+10003344,Headache
+10003345,Haematoma
+10003345,Thrombocytopenia
+10003345,International Normalised Ratio Increased
+10003346,Dyspnoea
+10003346,Hypoxia
+10003347,Device Dislocation
+10003348,Epistaxis
+10003348,Cough
+10003348,Nasal Dryness
+10003348,Nasal Congestion
+10003348,Haemoptysis
+10003348,Asthenia
+10003349,Cerebrovascular Accident
+10003349,Blood Pressure Increased
+10003349,Pain
+10003350,Malaise
+10003350,Gingivitis
+10003351,Aggression
+10003351,Violence-Related Symptom
+10003351,Anger
+10003351,Blepharospasm
+10003351,Suicidal Ideation
+10003352,Oedema Peripheral
+10003353,Dyspnoea
+10003353,Drug Ineffective
+10003354,Haemoglobin Decreased
+10003355,Heart Rate Decreased
+10003356,Oedema Peripheral
+10003357,Posterior Reversible Encephalopathy Syndrome
+10003357,Cerebral Haemorrhage
+10003357,Subarachnoid Haemorrhage
+10003358,Dyspnoea
+10003359,Erection Increased
+10003360,Hypertension
+10003361,Hyponatraemia
+10003362,Gastric Disorder
+10003362,Dyspnoea
+10003363,Unevaluable Event
+10003364,Drug Hypersensitivity
+10003364,Pruritus
+10003364,Rash
+10003365,Oedema
+10003365,Fluid Retention
+10003366,Oedema
+10003367,Unevaluable Event
+10003367,Eructation
+10003367,Chest Discomfort
+10003368,Pollakiuria
+10003368,Poor Quality Sleep
+10003368,Dyspnoea
+10003369,Feeling Abnormal
+10003370,Swelling
+10003371,Nasal Congestion
+10003371,Seasonal Allergy
+10003372,Nausea
+10003373,Nasal Congestion
+10003375,Loss Of Consciousness
+10003375,Listeriosis
+10003375,Pyrexia
+10003375,Headache
+10003375,Vomiting
+10003375,Meningitis
+10003376,Diarrhoea
+10003376,Arthralgia
+10003376,Nausea
+10003377,Malaise
+10003377,Weight Fluctuation
+10003378,Dyspnoea
+10003378,Tremor
+10003378,Bone Pain
+10003378,Presyncope
+10003379,Nasopharyngitis
+10003380,Respiratory Tract Infection
+10003380,Body Temperature
+10003380,Pneumonia
+10003380,Productive Cough
+10003381,No Therapeutic Response
+10003382,Blood Count Abnormal
+10003383,Unevaluable Event
+10003384,Unevaluable Event
+10003385,Dyspnoea Exertional
+10003385,Fatigue
+10003386,Fluid Retention
+10003386,Haemoglobin Decreased
+10003387,Cellulitis
+10003388,Dyspnoea
+10003388,Dyspnoea Exertional
+10003388,Oedema
+10003389,Hepatic Enzyme Decreased
+10003390,Headache
+10003390,Dyspnoea
+10003390,Diarrhoea
+10003390,Increased Appetite
+10003390,Swelling
+10003390,Weight Increased
+10003390,Vomiting
+10003391,Dyspnoea
+10003392,Subdural Haematoma
+10003393,Peripheral Swelling
+10003394,Dyspnoea Exertional
+10003395,Tremor
+10003395,Dry Mouth
+10003396,Unevaluable Event
+10003397,Sopor
+10003397,Drug Abuse
+10003397,Overdose
+10003398,"Hallucination, Visual"
+10003398,Headache
+10003398,Insomnia
+10003398,Somnolence
+10003398,Confusional State
+10003399,Headache
+10003399,Dizziness Exertional
+10003399,Haemoglobin Decreased
+10003399,Dyspnoea
+10003400,Hot Flush
+10003400,Rosacea
