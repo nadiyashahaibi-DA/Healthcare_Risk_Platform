@@ -1,0 +1,9 @@
+model,metric,score
+Logistic Regression,accuracy,0.58
+Random Forest,accuracy,0.623
+Logistic Regression,precision,0.265
+Random Forest,precision,0.19
+Logistic Regression,recall,0.692
+Random Forest,recall,0.308
+Logistic Regression,f1,0.383
+Random Forest,f1,0.235

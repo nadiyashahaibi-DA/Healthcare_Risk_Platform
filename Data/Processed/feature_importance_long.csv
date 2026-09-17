@@ -1,0 +1,12 @@
+feature,coefficient,direction
+anchor_age,-0.25724585408974754,Lowers risk
+admission_type_EU OBSERVATION,-0.2502881170091391,Lowers risk
+diagnosis_count,-0.02099615937671322,Lowers risk
+admission_type_DIRECT OBSERVATION,0.1542149689282179,Raises risk
+admission_type_ELECTIVE,0.16565644009487174,Raises risk
+admission_type_SURGICAL SAME DAY ADMISSION,0.23021013021862474,Raises risk
+prior_admissions_count,0.24260286942681528,Raises risk
+admission_type_URGENT,0.29959003428914893,Raises risk
+admission_type_OBSERVATION ADMIT,0.3168512076651791,Raises risk
+admission_type_DIRECT EMER.,0.3595614812836271,Raises risk
+admission_type_EW EMER.,0.524588143327438,Raises risk

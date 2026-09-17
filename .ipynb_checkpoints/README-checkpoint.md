@@ -1,6 +1,6 @@
 # Healthcare Prescription Safety & Patient Risk Intelligence Platform
 
-Ironhack Data Analytics bootcamp capstone project. A beginner-level, end-to-end healthcare analytics pipeline — cleaning, wrangling, SQL, statistics, and machine learning — built to answer four business questions about patient readmission risk and medication safety.
+Ironhack Data Analytics bootcamp project. A beginner-level, end-to-end healthcare analytics pipeline — cleaning, wrangling, SQL, statistics, and machine learning — built to answer four business questions about patient readmission risk and medication safety.
 
 ## Business Questions
 
@@ -21,7 +21,7 @@ These two sources use different identifiers (MIMIC patient IDs vs. OpenFDA safet
 
 **Q1 — Highest-risk patients.** Using a simple, explainable rule (3+ admissions, or at least one 30-day readmission), **35 of 100 patients (35%)** are flagged high-risk. Directionally, high-risk patients skew toward younger (<30) and female patients, Medicaid insurance, and direct-emergency admissions — though with only 275 admissions these patterns are suggestive, not statistically proven (see Q2).
 
-**Q2 — Readmission drivers.** 30-day readmission occurs after **54 of 275 admissions (~19.6%)**. Formal hypothesis tests (t-tests on age, length of stay, diagnosis count; a chi-square test on admission type) found **no statistically significant differences** between readmitted and non-readmitted admissions at this sample size (p > 0.05 across the board). This is reported honestly as a real finding: with a 100-patient demo dataset, apparent patterns don't hold up to statistical scrutiny yet.
+**Q2 — Readmission drivers.** 30-day readmission occurs after **53 of 275 admissions (~19.3%)**. Formal hypothesis tests (t-tests on age, length of stay, diagnosis count; a chi-square test on admission type) found **no statistically significant differences** between readmitted and non-readmitted admissions at this sample size (p > 0.05 across the board). This is reported honestly as a real finding: with a 100-patient demo dataset, apparent patterns don't hold up to statistical scrutiny yet.
 
 **Q3 — Medication safety.** Ranking medications by *serious-event rate* (share of reports flagged serious, minimum 2 reports) is more informative than ranking by raw report count. Prednisone stands out with 7 reports, 100% flagged serious. Note: OpenFDA data is a public feed independent of the MIMIC patients — a real link would require prescription records tied to patient IDs, which this demo dataset doesn't provide.
 

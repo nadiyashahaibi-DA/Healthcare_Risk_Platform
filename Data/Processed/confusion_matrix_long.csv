@@ -1,0 +1,5 @@
+model,actual,predicted,count
+Logistic Regression,No,No,31
+Logistic Regression,No,Yes,25
+Logistic Regression,Yes,No,4
+Logistic Regression,Yes,Yes,9
